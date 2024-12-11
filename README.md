@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sriram Suresh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **private GPT Project at Ashok Leyland**
-
-- 🌱 I’m currently learning **React, Mongo DB**
+- 🔭 I’m currently working as Technical Trainee at **Zoho**
 
 - 👨‍💻 All of my projects are available at [https://sriramsuresh.000webhostapp.com/](https://sriramsuresh.000webhostapp.com/)
 
