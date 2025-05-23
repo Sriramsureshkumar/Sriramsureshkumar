@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Technical Trainee at **Zoho**
 
-- 👨‍💻 All of my projects are available at [https://sriramsuresh.000webhostapp.com/](https://sriramsuresh.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://sriramsureshkumar.github.io/MyPortfolio/](https://sriramsureshkumar.github.io/MyPortfolio/)
 
 - 💬 Ask me about **Web technologies, Android application, Problem solving**
 
